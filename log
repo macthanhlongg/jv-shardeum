@@ -1,0 +1,341 @@
+2023-03-30 10:27:56
+######## shardeum-node-46   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: ''
+currentRewards: '0.0'
+
+######## shardeum-node-31   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xc2bda861d7d9b17810382283c64912a8b3239144'
+currentRewards: '0.866666666666666666'
+
+######## shardeum-node-41   "version": "1.1.6", ########
+
+
+######## shardeum-node-32   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xebb62e93a3f01b150b1a1fd554f712651b4d5f27'
+currentRewards: '0.0'
+
+######## shardeum-node-39   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 2039.742
+nominatorAddress: '0xc950f022d8924e039d4bccd9e9a6679367b5568f'
+nomineeAddress: 8d5320300db3f0a1b41f7afa44b335569b05c0cd5e4300b672c1abaf1df788bf
+currentRewards: '1.033333333333333333'
+checkPort: false
+
+######## shardeum-node-30   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0x25a19695357b45f1f2fb7d25293daed19b4f5fe8'
+currentRewards: '10.447944444444444444'
+
+######## shardeum-node-37   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0x4886ba14cce757c9855d757fcab553c4aa3bc555'
+currentRewards: '0.0'
+
+######## shardeum-node-35   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 2046.994
+nominatorAddress: '0xae6b25c2d74643d17dd02b4a35177c462486cccf'
+nomineeAddress: 1867c48f05e7578c217f77ff9e12f4472cc8930d9c0f3637daa29f2a6d210fb1
+currentRewards: '0.25'
+checkPort: true
+
+######## shardeum-node-38   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xa6453aea8df186f2fd8e20b82a2764bcb6a28d25'
+currentRewards: '0.266666666666666666'
+
+######## shardeum-node-36   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xf88bf3369c42f81e76a5f154fa16290ba53a757f'
+currentRewards: '0.25'
+
+######## shardeum-node-42   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 542.59
+nominatorAddress: '0xc6d420867bfff9def926c1d1f9eeb73d0815e5ac'
+nomineeAddress: 92ed471bd397cbcbf4592371f0391b478d750bf4f75f6d66c7cb36c887e6b35c
+currentRewards: '0.25'
+checkPort: true
+
+######## shardeum-node-29   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xcb7c41015546510e87023108a5ba65789596ad42'
+currentRewards: '1.616666666666666666'
+
+######## shardeum-node-23   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 530.427
+nominatorAddress: '0x05db2fb840dca8be319da7c22e42984064cecc53'
+nomineeAddress: d4434b7aef582f194de38eee2cf6869a2b20f5e89b19df1df01c2f3bef67651d
+currentRewards: '1.0'
+checkPort: true
+
+######## shardeum-node-43   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1422.194
+nominatorAddress: '0xc3c9efa2cdc7f2ded88a010a75700504f12c5fbe'
+nomineeAddress: aa6f9d40bc6c18c1aec4b53a6e6a97e854c6ac9d56f3649b5d8478226d5e1c40
+currentRewards: '0.45'
+checkPort: true
+
+######## shardeum-node-45   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xea71918288002f838a197afe61ce9fb978e6db4c'
+currentRewards: '0.0'
+
+######## shardeum-node-34   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 539.447
+nominatorAddress: '0x3573b6afcf92e6a61d4718b93085a1a95b04f0a1'
+nomineeAddress: fb7cb4e003a503c76c8a2300cd67be18c4e6831eca3cad39d6bc0021767f74e0
+currentRewards: '0.433333333333333333'
+checkPort: true
+
+######## shardeum-node-40   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 542.188
+nominatorAddress: ''
+nomineeAddress: 90949b751adf2b5dda561b8ec19dd2047e9c5300db459509288b772290e0bcd4
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-4   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xeb615d4588ccb4f1c83fd82d4a2ccb1d5cb2d02b'
+currentRewards: '0.0'
+
+######## shardeum-node-28   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 536.993
+nominatorAddress: '0x1c4fc62f810ab1622609e9f25e896550bfe43850'
+nomineeAddress: 224e2536ad91491f8a0dee0d98281109d6cade5147b705e92b85367b25d853aa
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-6   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 698.153
+nominatorAddress: '0xc124a58a80d1fd65f0a8d789e95b705689fc877b'
+nomineeAddress: baba99a5280c8fdb777111615a69744244fcecfbc0cb312bb3b53e27e378f961
+currentRewards: '0.7'
+checkPort: true
+
+######## shardeum-node-16   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1409.966
+nominatorAddress: '0xd92a7b307e196a4b72ed72f72a3f5c65712b8664'
+nomineeAddress: 56364b71d4ae07699cea392cc5554522e39bc727d161bf03b60ccc0eae01a85d
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-21   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1413.45
+nominatorAddress: '0x94be8340615fd0ef87b69898a73303ac99d77e8b'
+nomineeAddress: 50ec9756be299991a3365eb3815d6ffa8a06c18a5ce8d7262261fc25df77719d
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-26   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 2064.596
+nominatorAddress: '0xa04eabf873a41d6c9897cf2c4b4327688ac21443'
+nomineeAddress: 060c26c88fd15313e1d7141e245a3614ff20ef421ca90f297843727bae92766d
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-24   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 533.555
+nominatorAddress: '0xc678db19569e8de92963f04bbf5c941d42e84655'
+nomineeAddress: 26d9e8c599bb38fa34951154405f23088bfa8efe7a4cfc6a08ead21d2609dc09
+currentRewards: '1.233333333333333333'
+checkPort: true
+
+######## shardeum-node-19   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1411.705
+nominatorAddress: '0xbce5b1144f6f2b8b6815158ba02c4fdae0e0bf46'
+nomineeAddress: 8646826ace38d7302cc4b792ce0ac1d6bde86fb8507d7eeb1390f1b6bedf57c3
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-9   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0xee802014dff258e068558ce48ca3de853031ecde'
+currentRewards: '0.0'
+
+######## shardeum-node-10   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 583.888
+nominatorAddress: '0x6daf89478d8c5bdee060b8b17b05aeeaa897cf4a'
+nomineeAddress: 70b2f39107a6041361ef5af954bfabffecb0149c3c48095e3e17e343dd652a31
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-44   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 546.58
+nominatorAddress: '0x38187cc0d11f2b4e7a448fec1cd2098e1023c884'
+nomineeAddress: cfef8fcd551e3e75377e71bc74869ac40f26b06589d265c17336dcf4f1c57622
+currentRewards: '1.066666666666666666'
+checkPort: true
+
+######## shardeum-node-2   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1399.127
+nominatorAddress: '0x4a6e30242a602bb954dd464b0eb9d07429711cc0'
+nomineeAddress: d747564ff03896600a2496084f79d5c7f8e3f32f250d8988da79eec6bda7da8d
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-8   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 609.47
+nominatorAddress: '0x207c05c40af11f96793fffe276b5a2c3347e86b2'
+nomineeAddress: 985b0bd7af25cbf76ac549dd23a9911a704b59103f2151244dc00de89864f588
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-15   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0x7aaf467a4da5154583dd7d4703693245fdcdfab8'
+currentRewards: '0.0'
+
+######## shardeum-node-18   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 528.903
+nominatorAddress: '0xc9ed4bf3c95ebc9e04c276b6c5911624dc1348d7'
+nomineeAddress: 8c2d5b3d82890ffa259344e0ef643f5870adfc9e5251bda2056d2578afc48921
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-25   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 535.836
+nominatorAddress: '0x7de778fe458c9c9f26148fdd1e54a6f1e64dedbe'
+nomineeAddress: d9aa3234f021944cfe34dc58e021fb6381f065844180f717cbd018c859fa1723
+currentRewards: '4.315728055555555555'
+checkPort: true
+
+######## shardeum-node-22   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 2071.352
+nominatorAddress: '0x7c0b1a43ca6b98b24f3c1713c32afbed51ec44e9'
+nomineeAddress: 45ed4c150c87c3381ec735dfc6969e9fc4be14d0a94b0d59dd4ce56341a663d3
+currentRewards: '0.716666666666666666'
+checkPort: true
+
+######## shardeum-node-7   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 629.143
+nominatorAddress: '0x1190179127c381706ccafa118fd2a2cc378ec10e'
+nomineeAddress: 67452474006eddc45ff14d07eac5532e7ab8c1ee50715345174e9e438e8b69e0
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-12   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 525.22
+nominatorAddress: '0x82b64c011f763994dd7c74ec93f65155b0b60d10'
+nomineeAddress: bc95c1aac71f79f509b98b7497c1189d7e4d99cdb146190810a2b15b1899f400
+currentRewards: '0.25'
+checkPort: true
+
+######## shardeum-node-17   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 527.945
+nominatorAddress: '0x912009973599f75124ce440f99b8c29287533995'
+nomineeAddress: d3f0ff436ce2c6e9452155a29085e4d706f0138f54bf954e6254c95622ec538b
+currentRewards: '0.65'
+checkPort: true
+
+######## shardeum-node-20   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 531.521
+nominatorAddress: '0x4f326495d42e8e4dd54720c6c9456dbf4c07ee3d'
+nomineeAddress: 6ec5cdde0a2a048ffe440b51a9e00c56f7024daeeeda0e1571cb1e34419fbb4c
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-33   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 540.935
+nominatorAddress: '0x8b9c40617c3b5b077729bf9a1b1293c540bfb4bf'
+nomineeAddress: 62e1c8a836b07f7ce98fd3454853504a94270ea2c95c8d4ebe7cc87fa75378b6
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-47   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1427.133
+nominatorAddress: '0x819480edd3fd000e9815eee927b5361970b3b692'
+nomineeAddress: e065ada4cdf7e9f1f3a64c4a749047fbe0942060296b3d038ac08fb750d21444
+currentRewards: '0.0'
+checkPort: false
+
+######## shardeum-node-27   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1417.879
+nominatorAddress: '0xe3307e293b326de33f9e139ff7e7e43bfdec7fa0'
+nomineeAddress: 5484222f744324bbf69f835095c04b9fc44af4da1fa26828b0cefb5f7da83abd
+currentRewards: '0.983333333333333333'
+checkPort: true
+
+######## shardeum-node-1   "version": "1.1.6", ########
+state: stopped
+nominatorAddress: '0x069eb591352af6db570c2bebe97faed628c90b03'
+currentRewards: '0.233333333333333333'
+
+######## shardeum-node-11   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1405.992
+nominatorAddress: '0x4bf94f7e149d930a919fb91040ac4fb4efe0b0a1'
+nomineeAddress: b7f8604bc5eed0f3c34dbb028c92dadcd6b477a8b6c4a0943b7528518cda1fbc
+currentRewards: '1.333333333333333333'
+checkPort: true
+
+######## shardeum-node-14   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1409.477
+nominatorAddress: '0x1f6542ebe01cc4279a50f9234c11bc3e7b47ad53'
+nomineeAddress: 9553a35f068e3f666525badce0d456dc51ae26b61b348e168b8b76cf94ff2ccc
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-3   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 816.359
+nominatorAddress: '0xa482011675a0a7358e18943a3b64ba471aec67f8'
+nomineeAddress: 3d506fb132498661229661b5430249d92a65bdf9a46795dbc2f16578007046a6
+currentRewards: '0.25'
+checkPort: true
+
+######## shardeum-node-5   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 772.516
+nominatorAddress: '0x76788e6fe80da1ed11894565e7749953d5e30904'
+nomineeAddress: 1cb446a269954b8345d3c373dd58bde2ce7a0c96efc352033104e4e5000c78a4
+currentRewards: '0.25'
+checkPort: true
+
+######## shardeum-node-13   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1409.568
+nominatorAddress: '0x70872e3c1404c0e71693a479bbb614d8ed3735ee'
+nomineeAddress: 6224123e8c5f20bffc60cf3d9ea7ca2297fac14a886681448ed8a7a6ad795ac6
+currentRewards: '0.0'
+checkPort: true
+
+######## shardeum-node-0   "version": "1.1.6", ########
+state: standby
+totalTimeRunning: 1401.465
+nominatorAddress: ''
+nomineeAddress: b71d6a8630bab71403bd27369776f010ddafab30acf2a7db234438beb45fa9ce
+currentRewards: '0.0'
+checkPort: true
+
