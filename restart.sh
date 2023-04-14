@@ -6,4 +6,5 @@ do
   # Stop and start Shardedum Docker container
   docker exec shardeum-node-$i operator-cli stop
   docker exec shardeum-node-$i operator-cli start
+echo shardeum-node-$i done
 done
